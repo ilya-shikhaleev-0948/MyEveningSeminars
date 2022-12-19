@@ -49,10 +49,10 @@
 //     LowerBorder = LowerBorder + 1;
 // }
 
-Console.WriteLine("Введите трех значное число");
-int x = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите трех значное число");
+// int x = Convert.ToInt32(Console.ReadLine());
 
-int Ostatok = x % 10;
+// int Ostatok = x % 10;
 
-Console.Write($"Последняя цифра числа {x} это {Ostatok}");
+// Console.Write($"Последняя цифра числа {x} это {Ostatok}");
 

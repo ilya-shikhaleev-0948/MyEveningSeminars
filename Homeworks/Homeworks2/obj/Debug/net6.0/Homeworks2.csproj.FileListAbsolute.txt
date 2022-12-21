@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\bin\Debug\net6.0\Homeworks2.exe
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\bin\Debug\net6.0\Homeworks2.deps.json
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\bin\Debug\net6.0\Homeworks2.runtimeconfig.json
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\bin\Debug\net6.0\Homeworks2.dll
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\bin\Debug\net6.0\Homeworks2.pdb
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\obj\Debug\net6.0\Homeworks2.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\obj\Debug\net6.0\Homeworks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\obj\Debug\net6.0\Homeworks2.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\obj\Debug\net6.0\Homeworks2.AssemblyInfo.cs
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\obj\Debug\net6.0\Homeworks2.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\obj\Debug\net6.0\Homeworks2.dll
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\obj\Debug\net6.0\refint\Homeworks2.dll
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\obj\Debug\net6.0\Homeworks2.pdb
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\obj\Debug\net6.0\Homeworks2.genruntimeconfig.cache
+C:\Users\Илья\Desktop\MyEveningSeminars\Homeworks\Homeworks2\obj\Debug\net6.0\ref\Homeworks2.dll

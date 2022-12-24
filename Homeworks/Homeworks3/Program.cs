@@ -66,7 +66,7 @@
 // 23432 -> да
 
 
-// static void Main(int nunber)
+// static void Palindrome(int nunber)
 // {
     
 //     int remineder, sum = 0;
@@ -94,7 +94,7 @@
 
 // Console.WriteLine("Введите число");
 // int num = Convert.ToInt32(Console.ReadLine());
-// Main(num);
+// Palindrome(num);
 
 
 

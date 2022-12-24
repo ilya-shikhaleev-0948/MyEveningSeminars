@@ -22,7 +22,7 @@
 // Console.WriteLine("Введите число");
 // int x = Convert.ToInt32(Console.ReadLine());
 
-// int Ostatok =(x % 1000)/100;
+// int Ostatok =(x % 100)/10;
 // {
 //     if (x>99)
 //     Console.WriteLine($"{x} это-> {Ostatok}");

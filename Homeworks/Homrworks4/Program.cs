@@ -5,25 +5,25 @@
 
 // 2, 4 -> 16
 
-double FindDegree( double a,int  b)
-{
-    if (b < 0) {(a, b) = (1.0 / a, -b);}
-    {
+// double FindDegree( double a,int  b)
+// {
+//     if (b < 0) {(a, b) = (1.0 / a, -b);}
+//     {
 
-        double degree = 1.0;
-        for (; b != 0; a *= a, b /= 2)
-        {
-            if (b % 2 != 0) { degree *= a; }
-        }
-        return degree;
-    }
-}
-Console.WriteLine("Input A:");
-double a = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Input B:");
-int b = Convert.ToInt32(Console.ReadLine());
-double result = FindDegree(a,b);
-Console.WriteLine(result);
+//         double degree = 1.0;
+//         for (; b != 0; a *= a, b /= 2)
+//         {
+//             if (b % 2 != 0) { degree *= a; }
+//         }
+//         return degree;
+//     }
+// }
+// Console.WriteLine("Input A:");
+// double a = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Input B:");
+// int b = Convert.ToInt32(Console.ReadLine());
+// double result = FindDegree(a,b);
+// Console.WriteLine(result);
 
 
 // Задача 27: Напишите программу, которая принимает на вход число и 

@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\bin\Debug\net6.0\Seminars6.exe
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\bin\Debug\net6.0\Seminars6.deps.json
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\bin\Debug\net6.0\Seminars6.runtimeconfig.json
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\bin\Debug\net6.0\Seminars6.dll
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\bin\Debug\net6.0\Seminars6.pdb
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\obj\Debug\net6.0\Seminars6.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\obj\Debug\net6.0\Seminars6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\obj\Debug\net6.0\Seminars6.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\obj\Debug\net6.0\Seminars6.AssemblyInfo.cs
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\obj\Debug\net6.0\Seminars6.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\obj\Debug\net6.0\Seminars6.dll
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\obj\Debug\net6.0\refint\Seminars6.dll
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\obj\Debug\net6.0\Seminars6.pdb
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\obj\Debug\net6.0\Seminars6.genruntimeconfig.cache
+C:\Users\Илья\Desktop\MyEveningSeminars\Seminars\Seminars6\obj\Debug\net6.0\ref\Seminars6.dll
